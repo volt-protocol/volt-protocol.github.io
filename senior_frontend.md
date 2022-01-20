@@ -20,3 +20,8 @@ What we’re looking for:
 * Partial daily overlap with PST
 * Demonstrated interest in web3 — you have firsthand experience as a user of web3 which informs your perspective on UX
 * Ability to set up CI and other security measures needed for the front end
+
+Application and interview process:
+* contact @OneTrueKirk on Twitter or Telegram
+* set up initial call (30mins) to get to know each other and discuss vOLT
+* in case of mutual interest, proceed to technical interview (30 mins-1hr)

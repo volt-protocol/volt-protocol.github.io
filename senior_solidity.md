@@ -24,3 +24,8 @@ What we’re looking for:
 * Partial daily overlap with PST
 * Demonstrated interest in crypto — building, investing, yield farming, minting, voting, or whatever excites you in the space
 * Prior experience building crypto-native projects deployed on an EVM mainnet — especially using Solidity and Ethereum development tools (e.g. Hardhat, OpenZeppelin); experience in DeFi, testing, security, or auditing are a plus
+
+Application and interview process:
+* contact @OneTrueKirk on Twitter or Telegram
+* set up initial call (30mins) to get to know each other and discuss vOLT
+* in case of mutual interest, proceed to technical interview (30 mins-1hr)
