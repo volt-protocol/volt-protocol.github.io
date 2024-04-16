@@ -2,45 +2,41 @@
 layout: default
 ---
 
-![Banner](assets/biscuit.png)
+<img align="right" width="20" height="200" src="assets/aligner.png" alt="Launch the dApp">
+
+<p>
+  <a href="https://app.creditguild.org" title="Launch the dApp">
+    <img align="right" width="200" height="200" src="assets/launch.jpg" alt="Launch the dApp">
+  </a>
+</p>
+
+# Welcome to the Ethereum Credit Guild
+
+<br>
 
 
-**[Biscuit](http://sblisesivdin.github.io/biscuit)** is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find. 
+<img align="left" width="300" height="300" src="assets/guildlogo.jpg" alt="GUILD logo">
 
-## Usage
+<img align="left" width="20" height="320" src="assets/aligner.png" alt="formatting element">
 
-You can use this theme with [Jekyll](http://jekyllrb.com/) or you can simply use it with [Github Pages](https://pages.github.com).
-For local usage just download [Jekyll](http://jekyllrb.com/), use installation guide for more. You can download latest Biscuit from [its Github repository](https://github.com/sblisesivdin/biscuit).
+We’re a community dedicated to scaling onchain lending and borrowing without trust assumptions.
 
-If you prefer to use Github Pages, you do not need to download it, upload files to a new repository...etc., just [fork](https://docs.github.com/en/get-starter/quickstart/fork-a-repo) and use it.
+Credit v1 is launching on Arbitrum this Friday, April 19. Compared to existing lending pools, Credit is:
 
-### Files
+<br>
+* resilient to market manipulation attacks
+* more efficient at liquidity management
+* able to support a vastly higher diversity of loan types
+* optimized for passive lenders with veto rights and bad debt markdown
 
-* `_config.yml`            : Main configuration file.
-* `index.md`               : Website page (for now, this page).
-* `_includes/head.html`    : File to add custom code to `<head>` section.
-* `_includes/scripts.html` : File to add custom code before `</body>`. You can change footer at here.
-* `_sass` folder           : Related scss files can be found at this folder.
-* `css/main.csss`          : Main scss file.
-* `README.md`              : A simple readme file.
+![img](assets/guildmeeting.webp)
 
-## Example tag usage
+## LEND without third party risk
+Credit is designed with passive lenders in mind. Market depositors can veto potentially harmful governance changes, or delegatethis power to community representatives. Any bad debt is marked down immediately so that active lenders can’t front run passive depositors. Optimistic governance allows for streamlined operation while reducing trust assumptions.
 
-## Header 1
-### Header 2
-#### Header 3
-**bold**
-*italic*
+![img](assets/presentation.webp)
 
-> blockquotes
+## BORROW without oracles
+Borrow using an unlimited diversity of collateral assets without fearing market manipulation attacks or oracle errors. Say goodbye to fixed5 or 10 percent liquidation penalties thanks to our Dutch Auction model. 
 
-~~~python
-import os,time
-print ("Biscuit")
-~~~
-
-## Licence and Author Information
-
-Biscuit is derived from currently deprecated theme [Solo](http://github.com/chibicode/solo). The development of Biscuit is maintained by [Sefer Bora Lisesivdin](https://lrgresearch.org/bora).
-
-Biscuit and the previous code where Biscuit is derived are distributed with [MIT license](https://github.com/sblisesivdin/biscuit/blob/gh-pages/LICENSE).
+![img](assets/plants.webp)
