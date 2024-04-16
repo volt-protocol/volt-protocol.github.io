@@ -37,6 +37,6 @@ Credit is designed with passive lenders in mind. Market depositors can veto pote
 ![img](assets/presentation.webp)
 
 ## BORROW without oracles
-Borrow using an unlimited diversity of collateral assets without fearing market manipulation attacks or oracle errors. Say goodbye to fixed5 or 10 percent liquidation penalties thanks to our Dutch Auction model. 
+Borrow using an unlimited diversity of collateral assets without fearing market manipulation attacks or oracle errors. Say goodbye to large liquidation penalties thanks to our Dutch Auction model. 
 
 ![img](assets/lab.webp)
