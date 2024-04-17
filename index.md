@@ -14,16 +14,10 @@ layout: default
 
 <br>
 
-
-<img align="left" width="300" height="300" src="assets/guildlogo.jpg" alt="GUILD logo">
-
-<img align="left" width="20" height="320" src="assets/aligner.png" alt="formatting element">
-
 We’re a community dedicated to scaling onchain lending and borrowing without trust assumptions.
 
 Credit v1 is launching on Arbitrum this Friday, April 19. Compared to existing lending pools, Credit is:
 
-<br>
 * resilient to market manipulation attacks
 * more efficient at liquidity management
 * able to support a vastly higher diversity of loan types
