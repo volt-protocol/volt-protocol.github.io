@@ -26,7 +26,7 @@ Credit v1 is launching on Arbitrum this Friday, April 19. Compared to existing l
 ![img](assets/guildmeeting.webp)
 
 ## LEND without third party risk
-Credit is designed with passive lenders in mind. Market depositors can veto potentially harmful governance changes, or delegatethis power to community representatives. Any bad debt is marked down immediately so that active lenders can’t front run passive depositors. Optimistic governance allows for streamlined operation while reducing trust assumptions.
+Credit is designed with passive lenders in mind. Market depositors can veto potentially harmful governance changes, or delegate this power to community representatives. Any bad debt is marked down immediately so that active lenders can’t front run passive depositors. Optimistic governance allows for streamlined operation while reducing trust assumptions.
 
 ![img](assets/presentation.webp)
 
@@ -34,3 +34,14 @@ Credit is designed with passive lenders in mind. Market depositors can veto pote
 Borrow using an unlimited diversity of collateral assets without fearing market manipulation attacks or oracle errors. Say goodbye to large liquidation penalties thanks to our Dutch Auction model. 
 
 ![img](assets/lab.webp)
+
+## Resources
+
+Join us on [Discord](https://discord.gg/48hJGuVKHS).
+
+Get an overview via [Gitbook](https://credit-guild.gitbook.io/introduction).
+
+Read the source code on [Github](https://github.com/volt-protocol/ethereum-credit-guild).
+
+Check out our [Code4rena audit report](https://github.com/code-423n4/2023-12-ethereumcreditguild-findings/blob/main/report.md).
+
