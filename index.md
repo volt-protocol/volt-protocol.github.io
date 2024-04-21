@@ -16,7 +16,7 @@ layout: default
 
 We’re a community dedicated to scaling onchain lending and borrowing without trust assumptions.
 
-Credit v1 is launching on Arbitrum this Friday, April 19. Compared to existing lending pools, Credit is:
+Credit v1 is live on Arbitrum One, and will deploy on other high quality Ethereum L2s like Optimism and Base in the coming months. Compared to existing lending pools, Credit is:
 
 * resilient to market manipulation attacks
 * more efficient at liquidity management
